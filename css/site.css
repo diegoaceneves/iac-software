@@ -1,0 +1,32 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #000000;
+}
+
+h1{
+    color: #FFFFFF
+}
+
+h2{
+    color: #FFFFFF
+}
+
+li{
+    color: #FFFFFF
+}
+
+p{
+    color: #FFFFFF
+}
+
+a:visited{
+    color: #999999
+}
+
+
+a:active{
+    color: #666666
+}
